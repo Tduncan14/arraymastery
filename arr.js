@@ -30,3 +30,6 @@ arr5[20] = 55;
 
 console.log(arr5);
 
+
+console.log(arr5.length)
+
