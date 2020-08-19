@@ -1,5 +1,12 @@
 
 
+let obj = {
+
+    1:'one',
+    2:'2',
+    3:'3'
+}
+
 let map = new Map()
 
 map.set(1,'one')
